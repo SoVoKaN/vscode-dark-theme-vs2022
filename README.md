@@ -4,7 +4,18 @@ This extension provides dark color theme inspired by Visual Studio 2022. It incl
 
 For better experience you should install "Cascadia Mono" font [here](https://github.com/microsoft/cascadia-code).
 
-[`supported-languages.md`](./docs/supported-languages.md) &ndash; A list of supported languages is available.
+### Supported languages
+
+![C/C++](https://img.shields.io/badge/C/C++-blue)
+![C#](https://img.shields.io/badge/C%23-7658DE)
+![GO](https://img.shields.io/badge/GO-00AED8)
+![Java](https://img.shields.io/badge/Java-F89917)
+![Python](https://img.shields.io/badge/Python-34709F)
+![HTML](https://img.shields.io/badge/HTML-E44D26)
+![Shell](https://img.shields.io/badge/Shell-293036)
+![CMake](https://img.shields.io/badge/CMake-0068C7)
+![JSON](https://img.shields.io/badge/JSON-626262)
+![XML](https://img.shields.io/badge/XML-005FAD)
 
 ## Images
 
