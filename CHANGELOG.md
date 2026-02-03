@@ -1,5 +1,8 @@
 # What's New?
 
+## 0.0.12
+- Update README.
+
 ## 0.0.11
 - Update README.
 - Fix C bin, oct, hex numbers prefix.
