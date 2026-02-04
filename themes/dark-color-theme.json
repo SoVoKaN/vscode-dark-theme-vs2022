@@ -286,8 +286,6 @@
 
         "editor.lineHighlightBorder": "#464646FF",
 
-        "editorWatermark.foreground": "#7D7D7DFF",
-
         "editorLink.activeForeground": "#569CD6FF",
 
         "editorIndentGuide.activeBackground1": "#717171FF",
@@ -875,7 +873,7 @@
             "settings": { "foreground": "#569CD6FF" }
         },
         {
-            "scope": [ 
+            "scope": [
                 "punctuation.definition.begin.bracket.curly.go",
                 "punctuation.definition.end.bracket.curly.go",
                 "punctuation.definition.begin.bracket.round.go",
@@ -884,6 +882,50 @@
                 "punctuation.definition.end.bracket.square.go",
                 "punctuation.other.comma.go",
                 "punctuation.other.colon.go"
+            ],
+            "settings": { "foreground": "#B4B4B4FF" }
+        },
+
+        // Java
+
+        {
+            "scope": "variable.other.object.java",
+            "settings": { "foreground": "#9CDCFEFF" }
+        },
+        {
+            "scope": "variable.other.definition.java",
+            "settings": { "foreground": "#9CDCFEFF" }
+        },
+        {
+            "scope": "entity.other.inherited-class.java",
+            "settings": { "foreground": "#4EC9B0FF" }
+        },
+        {
+            "scope": "keyword.other.import.java",
+            "settings": { "foreground": "#D8A0DFFF" }
+        },
+        {
+            "scope": "storage.type.java",
+            "settings": { "foreground": "#4EC9B0FF" }
+        },
+        {
+            "scope": "storage.modifier.package.java",
+            "settings": { "foreground": "#4EC9B0FF" }
+        },
+        {
+            "scope": "storage.type.function.arrow.java",
+            "settings": { "foreground": "#B4B4B4FF" }
+        },
+        {
+            "scope": "meta.method-call.java",
+            "settings": { "foreground": "#9CDCFEFF" }
+        },
+        {
+            "scope": [
+                "punctuation.bracket.angle.java",
+                "punctuation.bracket.square.java",
+                "punctuation.definition.parameters.begin.bracket.round.java",
+                "punctuation.definition.parameters.end.bracket.round.java"
             ],
             "settings": { "foreground": "#B4B4B4FF" }
         },

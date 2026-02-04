@@ -1,5 +1,8 @@
 # What's New?
 
+## 0.0.13
+- Add java support.
+
 ## 0.0.12
 - Update README.
 
