@@ -1,5 +1,9 @@
 # What's New?
 
+## 0.0.4
+
+- Add python support.
+
 ## 0.0.3
 
 - Add golang support.
