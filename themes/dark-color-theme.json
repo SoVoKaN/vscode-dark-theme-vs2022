@@ -764,6 +764,13 @@
 			],
 			"settings": { "foreground": "#B4B4B4FF" }
 		},
+		{
+			"scope": [
+				"punctuation.definition.begin.bracket.square",
+				"punctuation.definition.end.bracket.square"
+			],
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
 
 		// C
 
