@@ -775,6 +775,14 @@
 		// C
 
 		{
+			"scope": "variable.other.macro.argument.c",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+		{
+			"scope": "meta.preprocessor.macro.c",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+		{
 			"scope": "keyword.other.unit.binary.c",
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
@@ -786,9 +794,28 @@
 			"scope": "keyword.other.unit.hexadecimal.c",
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
+		{
+			"scope": "storage.modifier.array.bracket.square.c",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+		{
+			"scope": [
+				"punctuation.definition.parameters.begin.c",
+				"punctuation.definition.parameters.end.c"
+			],
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
 
 		// Cpp
 
+		{
+			"scope": "variable.other.macro.argument.cpp",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+		{
+			"scope": "meta.preprocessor.macro.cpp",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
 		{
 			"scope": "keyword.operator.sizeof.cpp",
 			"settings": { "foreground": "#569CD6FF" }
@@ -816,6 +843,17 @@
 		{
 			"scope": "entity.name.function.preprocessor.cpp",
 			"settings": { "foreground": "#DCDCDCFF" }
+		},
+		{
+			"scope": "storage.modifier.array.bracket.square.c",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+		{
+			"scope": [
+				"punctuation.definition.parameters.begin.cpp",
+				"punctuation.definition.parameters.end.cpp"
+			],
+			"settings": { "foreground": "#B4B4B4FF" }
 		},
 
 		// Go
