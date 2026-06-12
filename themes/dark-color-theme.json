@@ -963,6 +963,15 @@
 				"support.type.property-name.json"
 			],
 			"settings": { "foreground": "#D7BA7DFF" }
+		},
+
+		// .env
+
+		{
+			"scope": [
+				"entity.name.section.group-title.ini"
+			],
+			"settings": { "foreground": "#4EC9B0FF" }
 		}
 	]
 }
