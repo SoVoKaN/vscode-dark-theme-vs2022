@@ -1089,6 +1089,10 @@
 			"scope": "support.type.sourceFile.cmake",
 			"settings": { "foreground": "#4EC9B0FF" }
 		},
+		{
+			"scope": "support.type.provideInfo.cmake",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
 
 		// XML
 
