@@ -1,0 +1,55 @@
+{
+    "name": "dark-theme-vs2022",
+    "displayName": "Dark Theme VS2022",
+    "description": "Dark theme inspired by Visual Studio 2022.",
+    "version": "0.0.1",
+    "publisher": "SoVoKaN",
+    "author": {
+        "name": "Mark Kraus",
+        "email": "mark@sovokan.com"
+    },
+    "icon": "images/icon.png",
+    "readme": "README.md",
+    "license": "MIT",
+    "homepage": "https://github.com/SoVoKaN/vscode-dark-theme-vs2022#readme",
+
+    "engines": {
+      "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+
+    "bugs": {
+        "url": "https://github.com/SoVoKaN/vscode-dark-theme-vs2022/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoVoKaN/vscode-dark-theme-vs2022.git"
+    },
+
+    "contributes": {
+      "themes": [
+        {
+            "label": "Visual Studio 2022 Dark",
+            "uiTheme": "vs-dark",
+            "path": "./themes/dark-color-theme.json"
+        }
+      ]
+    },
+    "keywords": [
+        "vs",
+        "2022",
+        "vs2022",
+        "visual",
+        "studio",
+        "visual studio",
+        "visual studio 2022",
+        "visual studio themes",
+        "visual studio color theme",
+        "visual studio 2022 themes",
+        "visual studio default themes",
+        "visual studio 2022 color theme",
+        "visual studio 2022 default themes"
+    ]
+}
