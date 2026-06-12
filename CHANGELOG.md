@@ -1,5 +1,10 @@
 # What's New?
 
+## 0.0.6
+
+- Add XML support.
+- Add HTML support.
+
 ## 0.0.5
 
 - Fix golang highlighting.

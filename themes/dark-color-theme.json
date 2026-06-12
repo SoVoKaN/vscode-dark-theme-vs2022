@@ -882,6 +882,57 @@
 			"settings": { "foreground": "#B4B4B4FF" }
 		},
 
+		// HTML
+
+		{
+			"scope": "entity.name.tag.html",
+			"settings": { "foreground": "#569CD6FF" }
+		},
+		{
+			"scope": "entity.other.attribute-name.html",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": [
+				"punctuation.definition.tag.begin.html",
+				"punctuation.definition.tag.end.html"
+			],
+			"settings": { "foreground": "#808080FF" }
+		},
+
+		// XML
+
+		{
+			"scope": "text.xml",
+			"settings": { "foreground": "#C8C8C8FF" }
+		},
+		{
+			"scope": "entity.name.tag.xml",
+			"settings": { "foreground": "#569CD6FF" }
+		},
+		{
+			"scope": "entity.other.attribute-name.xml",
+			"settings": { "foreground": "#92CAF4FF" }
+		},
+		{
+			"scope": "entity.name.tag.localname.xml",
+			"settings": { "foreground": "#569CD6FF" }
+		},
+		{
+			"scope": "entity.other.attribute-name.localname.xml",
+			"settings": { "foreground": "#92CAF4FF" }
+		},
+		{
+			"scope": "entity.other.attribute-name.namespace.xml",
+			"settings": { "foreground": "#92CAF4FF" }
+		},
+		{
+			"scope": [
+				"punctuation.definition.tag.xml"
+			],
+			"settings": { "foreground": "#808080FF" }
+		},
+
 		// Json
 
 		{
