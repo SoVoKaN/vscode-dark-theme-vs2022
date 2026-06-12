@@ -1,5 +1,9 @@
 # What's New?
 
+## 0.0.7
+
+- Add shell support.
+
 ## 0.0.6
 
 - Add XML support.
@@ -25,4 +29,4 @@
 
 ## 0.0.1
 
-- Theme release.
+- Theme publish.

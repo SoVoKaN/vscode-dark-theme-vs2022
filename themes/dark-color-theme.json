@@ -900,6 +900,29 @@
 			"settings": { "foreground": "#808080FF" }
 		},
 
+		// Shell
+
+		{
+			"scope": "variable.other.normal.shell",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "variable.other.assignment.shell",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "variable.other.for.shell",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "entity.name.command.shell",
+			"settings": { "foreground": "#D8A0DFFF" }
+		},
+		{
+			"scope": "punctuation.definition.variable.shell",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+
 		// XML
 
 		{

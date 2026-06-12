@@ -18,6 +18,7 @@ For better experience you should install "Cascadia Mono" font from [here](https:
     | CSS      |  Planned❌ |
     | JS       |  Planned❌ |
     | TS       |  Planned❌ |
+    | Shell    |   Full✅   |
     | CMake    |  Planned❌ |
     | Markdown |  Planned❌ |
     | SQL      |  Planned❌ |
