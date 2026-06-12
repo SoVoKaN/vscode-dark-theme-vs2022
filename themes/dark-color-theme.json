@@ -776,6 +776,18 @@
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
 		{
+			"scope": "keyword.other.unit.binary.c",
+			"settings": { "foreground": "#B5CEA8FF" }
+		},
+		{
+			"scope": "keyword.other.unit.octal.c",
+			"settings": { "foreground": "#B5CEA8FF" }
+		},
+		{
+			"scope": "keyword.other.unit.hexadecimal.c",
+			"settings": { "foreground": "#B5CEA8FF" }
+		},
+		{
 			"scope": "entity.name.scope-resolution.cpp",
 			"settings": { "foreground": "#C8C8C8FF" }
 		},
