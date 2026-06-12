@@ -783,16 +783,24 @@
 		// Go
 
 		{
+			"scope": "constant.language.go.mod",
+			"settings": { "foreground": "#D7BA7DFF" }
+		},
+		{
 			"scope": "variable.other.go",
 			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "variable.other.constant.go",
+			"settings": { "foreground": "#9CDCFEFF" }
 		},
 		{
 			"scope": "variable.other.assignment.go",
 			"settings": { "foreground": "#9CDCFEFF" }
 		},
 		{
-			"scope": "variable.other.constant.go",
-			"settings": { "foreground": "#9CDCFEFF" }
+			"scope": "variable.other.property.go",
+			"settings": { "foreground": "#DADADAFF" }
 		},
 		{
 			"scope": "entity.name.type.go",
@@ -804,11 +812,15 @@
 		},
 		{
 			"scope": "keyword.go.mod",
-			"settings": { "foreground": "#C8C8C8FF" }
+			"settings": { "foreground": "#569CD6FF" }
 		},
 		{
 			"scope": "keyword.package.go",
-			"settings": { "foreground": "#C8C8C8FF" }
+			"settings": { "foreground": "#569CD6FF" }
+		},
+		{
+			"scope": "keyword.struct.go",
+			"settings": { "foreground": "#569CD6FF" }
 		},
 		{
 			"scope": "keyword.interface.go",
@@ -840,8 +852,10 @@
 				"punctuation.definition.end.bracket.curly.go",
 				"punctuation.definition.begin.bracket.round.go",
 				"punctuation.definition.end.bracket.round.go",
-				"punctuation.definition.begin.bracket.round.go",
-				"punctuation.definition.end.bracket.round.go"
+				"punctuation.definition.begin.bracket.square.go",
+				"punctuation.definition.end.bracket.square.go",
+				"punctuation.other.comma.go",
+				"punctuation.other.colon.go"
 			],
 			"settings": { "foreground": "#B4B4B4FF" }
 		},

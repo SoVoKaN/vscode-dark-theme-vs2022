@@ -1,12 +1,31 @@
 # Dark theme by Visual Studio 2022
 
-This extension provides dark color theme inspired by Visual Studio 2022.
-
-**It includes semantic highlighting.**
+This extension provides dark color theme inspired by Visual Studio 2022. It includes semantic highlighting.
 
 For better experience you should install "Cascadia Mono" font from [here](https://github.com/microsoft/cascadia-code).
 
-### Dark
+<details open>
+    <summary><b>Supported languages</b></summary>
+
+    | Language |   Status   |
+    |----------|------------|
+    | С/C++    |   Full✅   |
+    | C#       |   Full✅   |
+    | Go       |   Full✅   |
+    | Java     |  Planned❌ |
+    | Python   |   Full✅   |
+    | HTML     |  Planned❌ |
+    | CSS      |  Planned❌ |
+    | JS       |  Planned❌ |
+    | TS       |  Planned❌ |
+    | Markdown |  Planned❌ |
+    | SQL      |  Planned❌ |
+    | JSON     |   Full✅   |
+    | XML      |  Planned❌ |
+</details>
+
+## Images
+
 ![Dark theme first preview picture](./images/preview/dark_theme_first_preview.png)
 
 ![Dark theme second preview picture](./images/preview/dark_theme_second_preview.png)
