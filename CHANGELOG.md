@@ -1,5 +1,9 @@
 # What's New?
 
+## 0.0.11
+
+- Fix C bin, oct, hex numbers prefix.
+
 ## 0.0.10
 
 - Fix C++ bin, oct, hex numbers prefix.

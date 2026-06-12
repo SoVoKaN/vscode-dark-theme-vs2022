@@ -765,6 +765,21 @@
 			"settings": { "foreground": "#B4B4B4FF" }
 		},
 
+		// C
+
+		{
+			"scope": "keyword.other.unit.binary.c",
+			"settings": { "foreground": "#B5CEA8FF" }
+		},
+		{
+			"scope": "keyword.other.unit.octal.c",
+			"settings": { "foreground": "#B5CEA8FF" }
+		},
+		{
+			"scope": "keyword.other.unit.hexadecimal.c",
+			"settings": { "foreground": "#B5CEA8FF" }
+		},
+
 		// Cpp
 
 		{
@@ -776,15 +791,15 @@
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
 		{
-			"scope": "keyword.other.unit.binary.c",
+			"scope": "keyword.other.unit.binary.cpp",
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
 		{
-			"scope": "keyword.other.unit.octal.c",
+			"scope": "keyword.other.unit.octal.cpp",
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
 		{
-			"scope": "keyword.other.unit.hexadecimal.c",
+			"scope": "keyword.other.unit.hexadecimal.cpp",
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
 		{

@@ -4,6 +4,8 @@ This extension provides dark color theme inspired by Visual Studio 2022. It incl
 
 For better experience you should install "Cascadia Mono" font [here](https://github.com/microsoft/cascadia-code).
 
+### Supported languages
+
 <details open>
     <summary><b>Supported languages</b></summary>
 
