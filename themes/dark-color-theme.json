@@ -891,6 +891,50 @@
 			"settings": { "foreground": "#B4B4B4FF" }
 		},
 
+		// Java
+
+		{
+			"scope": "variable.other.object.java",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "variable.other.definition.java",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "entity.other.inherited-class.java",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "keyword.other.import.java",
+			"settings": { "foreground": "#D8A0DFFF" }
+		},
+		{
+			"scope": "storage.type.java",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "storage.modifier.package.java",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "storage.type.function.arrow.java",
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+		{
+			"scope": "meta.method-call.java",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": [
+				"punctuation.bracket.angle.java",
+				"punctuation.bracket.square.java",
+				"punctuation.definition.parameters.begin.bracket.round.java",
+				"punctuation.definition.parameters.end.bracket.round.java"
+			],
+			"settings": { "foreground": "#B4B4B4FF" }
+		},
+
 		// Python
 
 		{

@@ -9,6 +9,7 @@ For better experience you should install "Cascadia Mono" font [here](https://git
 ![C/C++](https://img.shields.io/badge/C/C++-blue)
 ![C#](https://img.shields.io/badge/C%23-7658DE)
 ![GO](https://img.shields.io/badge/GO-00AED8)
+![Java](https://img.shields.io/badge/Java-F89917)
 ![Python](https://img.shields.io/badge/Python-34709F)
 ![HTML](https://img.shields.io/badge/HTML-E44D26)
 ![Shell](https://img.shields.io/badge/Shell-293036)
