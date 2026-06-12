@@ -1,5 +1,9 @@
 # What's New?
 
+## 0.0.12
+
+- Upgrade preview images quality.
+
 ## 0.0.11
 
 - Fix C bin, oct, hex numbers prefix.
