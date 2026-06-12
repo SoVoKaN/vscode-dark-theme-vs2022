@@ -1001,6 +1001,10 @@
 		// CMake
 
 		{
+			"scope": "string.unquoted.cmake",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
 			"scope": "variable.other.cmake",
 			"settings": { "foreground": "#9CDCFEFF" }
 		},
