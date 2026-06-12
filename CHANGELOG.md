@@ -1,5 +1,9 @@
 # What's New?
 
+## 0.0.14
+- Fix CMake highlighting.
+- Add missing C/C++ preprocessor macro colors.
+
 ## 0.0.13
 - Add java support.
 
