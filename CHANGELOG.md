@@ -3,6 +3,7 @@
 ## 0.0.11
 
 - Fix C bin, oct, hex numbers prefix.
+- Rework supported languages table in REAME.
 
 ## 0.0.10
 
