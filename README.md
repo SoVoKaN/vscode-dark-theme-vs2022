@@ -2,7 +2,7 @@
 
 This extension provides dark color theme inspired by Visual Studio 2022. It includes semantic highlighting.
 
-For better experience you should install "Cascadia Mono" font from [here](https://github.com/microsoft/cascadia-code).
+For better experience you should install "Cascadia Mono" font [here](https://github.com/microsoft/cascadia-code).
 
 <details open>
     <summary><b>Supported languages</b></summary>
@@ -19,7 +19,7 @@ For better experience you should install "Cascadia Mono" font from [here](https:
     | JS       |  Planned❌ |
     | TS       |  Planned❌ |
     | Shell    |   Full✅   |
-    | CMake    |  Planned❌ |
+    | CMake    |   Full✅   |
     | Markdown |  Planned❌ |
     | SQL      |  Planned❌ |
     | JSON     |   Full✅   |

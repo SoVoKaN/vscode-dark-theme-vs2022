@@ -1,5 +1,10 @@
 # What's New?
 
+## 0.0.9
+
+- Add CMake support.
+- Fix C++ highlighting.
+
 ## 0.0.8
 
 - Add .env support.

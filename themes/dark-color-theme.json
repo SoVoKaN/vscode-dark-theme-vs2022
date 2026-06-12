@@ -768,6 +768,10 @@
 		// Cpp
 
 		{
+			"scope": "keyword.operator.sizeof.cpp",
+			"settings": { "foreground": "#569CD6FF" }
+		},
+		{
 			"scope": "keyword.other.unit.suffix.floating-point.cpp",
 			"settings": { "foreground": "#B5CEA8FF" }
 		},
@@ -921,6 +925,49 @@
 		{
 			"scope": "punctuation.definition.variable.shell",
 			"settings": { "foreground": "#B4B4B4FF" }
+		},
+
+		// CMake
+
+		{
+			"scope": "variable.other.cmake",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "variable.other.env.cmake",
+			"settings": { "foreground": "#9CDCFEFF" }
+		},
+		{
+			"scope": "support.function.cmake",
+			"settings": { "foreground": "#DCDCAAFF" }
+		},
+		{
+			"scope": "support.function.commandProperty.cmake",
+			"settings": { "foreground": "#D8A0DFFF" }
+		},
+		{
+			"scope": "support.type.build.cmake",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "support.type.system.cmake",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "support.type.testProperty.cmake",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "support.type.targetProperty.cmake",
+			"settings": { "foreground": "#569CD6FF" }
+		},
+		{
+			"scope": "support.type.globalProperty.cmake",
+			"settings": { "foreground": "#4EC9B0FF" }
+		},
+		{
+			"scope": "support.type.sourceFile.cmake",
+			"settings": { "foreground": "#4EC9B0FF" }
 		},
 
 		// XML
